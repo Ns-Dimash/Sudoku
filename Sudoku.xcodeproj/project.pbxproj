@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0173A0A929FE37B300CCE499 /* FirstPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0173A0A829FE37B300CCE499 /* FirstPage.swift */; };
 		01CB0C9D29FD9721007ED228 /* SudokuApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01CB0C9C29FD9721007ED228 /* SudokuApp.swift */; };
 		01CB0C9F29FD9721007ED228 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01CB0C9E29FD9721007ED228 /* ContentView.swift */; };
 		01CB0CA129FD9722007ED228 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01CB0CA029FD9722007ED228 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0173A0A829FE37B300CCE499 /* FirstPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstPage.swift; sourceTree = "<group>"; };
 		01CB0C9929FD9721007ED228 /* Sudoku.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sudoku.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		01CB0C9C29FD9721007ED228 /* SudokuApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SudokuApp.swift; sourceTree = "<group>"; };
 		01CB0C9E29FD9721007ED228 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 				01CB0C9E29FD9721007ED228 /* ContentView.swift */,
 				01CB0CA029FD9722007ED228 /* Assets.xcassets */,
 				01CB0CA229FD9722007ED228 /* Preview Content */,
+				0173A0A829FE37B300CCE499 /* FirstPage.swift */,
 			);
 			path = Sudoku;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			files = (
 				01CB0C9F29FD9721007ED228 /* ContentView.swift in Sources */,
 				01CB0C9D29FD9721007ED228 /* SudokuApp.swift in Sources */,
+				0173A0A929FE37B300CCE499 /* FirstPage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
